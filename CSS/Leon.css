@@ -194,8 +194,10 @@ html{
     color: #fff;
 }
 /* features section styles */
-.features .container {
+.features{
     background-color: var(--background-color);
+}
+.features .container {
     padding: var(--padding) 0;
     text-align: center;
 }
